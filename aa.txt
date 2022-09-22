@@ -1,0 +1,4 @@
+node -v16.17.0
+C:\Users\dungle\AppData\Local\Android\Sdk
+Get-ChildItem -Path Env:\
+
